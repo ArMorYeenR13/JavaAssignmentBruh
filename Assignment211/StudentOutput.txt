@@ -1,0 +1,131 @@
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Bon and a surname of Bon
+Your studID is BB03oo
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student BB03oo
+Please enter mark 2 for student BB03oo
+Please enter mark 3 for student BB03oo
+Student BB03oo has a lowest mark of 2
+A highest mark of 100
+Student ***BB03oo*** has an average of 37.00
+Would you like to print a bar chart? [y/n]
+Student id statistics: BB03oo
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *           *
+   *           *
+Highest     Lowest
+ 100           2
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
